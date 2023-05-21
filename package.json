@@ -1,0 +1,15 @@
+{
+  "name": "setup-utils",
+  "description": "A collection of scripts to help setup a new project",
+  "version": "1.0.0",
+  "scripts": {
+    "nvm-autoload": "npx github:ccurtin/setup-utils",
+    "nvm-autoload-2": "npx github:ccurtin/setup-utils nvm-autoload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccurtin/setup-utils.git"
+  },
+  "author": "ccurtin",
+  "license": "MIT"
+}
